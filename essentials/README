@@ -1,0 +1,5 @@
+You must run Essentials with sudo if you want to run Kugel-Upgrade.
+I am completely transparent.
+Kugel IP - Gets a script from the internet using curl which automatically prints your publicly available IP, no viruses.
+Kugel Hostname - Prints your hostname.
+Kugel Upgrade - ...sudo apt upgrade....
